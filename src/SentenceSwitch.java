@@ -1,6 +1,6 @@
 public class SentenceSwitch {
     public static void main (String[] args){
-
+        System.out.println("Cambios");
         String colorModeSelected = "Dark";
 
         switch (colorModeSelected) {
